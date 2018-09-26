@@ -1,0 +1,8 @@
+com\onlinestore\controller\PageController.class
+com\onlinestore\controller\ContentController.class
+com\onlinestore\utils\FastDFSClient.class
+com\onlinestore\controller\ItemController.class
+com\onlinestore\controller\ContentCategoryController.class
+com\onlinestore\controller\ItemCatController.class
+com\onlinestore\controller\IndexManagerController.class
+com\onlinestore\controller\PictureController.class

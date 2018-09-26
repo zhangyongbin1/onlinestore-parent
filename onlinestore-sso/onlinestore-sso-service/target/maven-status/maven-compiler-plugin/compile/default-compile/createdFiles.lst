@@ -1,0 +1,4 @@
+com\onlinestore\sso\service\impl\UserServiceImpl.class
+com\onlinestore\sso\jedis\JedisClientCluster.class
+com\onlinestore\sso\jedis\JedisClientPool.class
+com\onlinestore\sso\jedis\JedisClient.class

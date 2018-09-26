@@ -1,0 +1,8 @@
+com\onlinestore\search\listener\MyMessageListener.class
+com\onlinestore\search\mapper\SearchItemMapper.class
+com\onlinestore\search\servic\impl\SearchItemServiceImpl.class
+com\onlinestore\search\listener\ItemUpdateMessageListener.class
+com\onlinestore\search\servic\impl\SearchServiceImpl.class
+com\onlinestore\search\dao\SearchDao.class
+com\onlinestore\search\listener\ItemAddMessageListener.class
+com\onlinestore\search\listener\ItemDeleteMessageListener.class

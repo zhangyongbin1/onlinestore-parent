@@ -1,0 +1,5 @@
+com\onlinestore\jedis\JedisClient.class
+com\onlinestore\jedis\JedisClientPool.class
+com\onlinestore\content\service\impl\ContentServiceImpl.class
+com\onlinestore\jedis\JedisClientCluster.class
+com\onlinestore\content\service\impl\ContentCategoryServiceImpl.class

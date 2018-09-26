@@ -1,0 +1,2 @@
+com\onlinestore\search\controller\SearchController.class
+com\onlinestore\search\exception\GlobalExceptionResolver.class
